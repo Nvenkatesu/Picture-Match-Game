@@ -1,0 +1,17 @@
+.tab {
+  color: #ffffff;
+  font-size: 20px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+@media (max-width: 576px) {
+  .tab {
+    font-size: 12px;
+  }
+}
+.click-tab {
+  color: #fec653;
+  border-bottom: 2px solid #fec653;
+}
